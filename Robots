@@ -1,0 +1,11 @@
+user-agent:Yandex
+Disallow: /admin
+Diasallow: *?page=
+Sitemap: https://github.com/kisele4ek/kisele4ek.github.io/sitemap.xml
+User-agent:googlebot
+Disallow: *?page=
+Sitemap: https://github.com/kisele4ek/kisele4ek.github.io/sitemap.xml
+User-agent:*
+Disallow: /admin
+Disallow: *?page=
+Sitemup: https://github.com/kisele4ek/kisele4ek.github.io/sitemap.xml
