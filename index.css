@@ -3,8 +3,8 @@ background: #f3f2f3;
 color: #000000;
 font-family: Trebuchet MS, Arial, Times New Roman;
 font-size: 12px;
-background-image: url(фон.jfif);
-background-repeat: repeat;
+background-image: url(фонномер2.jfif);
+background-repeat: no-repeat;
 background-size: cover;
 }
 h1 {
